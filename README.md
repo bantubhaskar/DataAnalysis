@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPL Analysis Dashboard
 
 This Power BI dashboard offers comprehensive analysis of IPL (Indian Premier League) cricket data, providing valuable insights into player performance, team dynamics, and overall tournament statistics.
@@ -28,3 +29,7 @@ This dashboard is designed to provide cricket enthusiasts, analysts, and team ma
 
 https://github.com/AizazM/IPL-Analysis-Dashboard-PowerBI/blob/main/Final-Dashboard%20.png
 
+=======
+# DataAnalysis
+Ipl data analysis using Power BI
+>>>>>>> 808e2d6be9da75c50de4f66bf8be3be6a04643be
